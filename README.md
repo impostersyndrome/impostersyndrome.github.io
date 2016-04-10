@@ -8,3 +8,7 @@
 # Deployment Instructions
 
 - Push the master branch to github.
+
+### Thanks
+
+Built using [poole](https://github.com/poole/poole)
