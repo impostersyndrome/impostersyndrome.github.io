@@ -1,4 +1,4 @@
-# Usage Instructions
+# Usage Instructions (mac)
 
 - Get [docker](https://docs.docker.com/engine/installation/)
 - Get [jekyll](https://hub.docker.com/r/jekyll/jekyll/) image: `docker pull jekyll/jekyll`
